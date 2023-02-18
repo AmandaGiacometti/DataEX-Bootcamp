@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="BaseDados.csv"
+  DTS:DTSID="{8712BB42-9212-4F73-B117-76DE7D6107DB}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="C:\Users\amand\Documents\GitDeOlho\DataEX-Bootcamp\Dia 06\BaseDados.csv" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
