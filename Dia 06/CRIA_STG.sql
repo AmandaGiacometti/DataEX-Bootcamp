@@ -20,3 +20,6 @@ CREATE TABLE [DWE_SSIS_EXEMPLO].[dbo].[STG_VENDA](
     [DATA_VENDA] [varchar](50) NULL
 ) ON [PRIMARY]
 GO
+
+select * from [DWE_SSIS_EXEMPLO].[dbo].[STG_VENDA]
+GO
